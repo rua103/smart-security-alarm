@@ -1,0 +1,31 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+DebugConfig/
+
+# Keil 用户配置文件（每台电脑不同）
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.htm
+*.lnp
+*.d
+*.crf
+*.o
+*.axf
+*.hex
+*.lst
+*.map
+*.sct
+*.build_log.htm
+
+# 临时文件
+*.tmp
+*.bak
+~$*
+
+# 批处理临时文件
+git_setup.bat
+fix_project.bat
+
